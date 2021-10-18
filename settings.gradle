@@ -1,0 +1,2 @@
+rootProject.name = "creamy_creations_bakery"
+include ':app'
